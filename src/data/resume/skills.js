@@ -23,7 +23,7 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
+    title: 'Microsoft Azure',
     competency: 4,
     category: ['Web Development', 'Tools'],
   },
